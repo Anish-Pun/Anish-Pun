@@ -9,7 +9,7 @@ Rekevant coursework (2023-2024): Elektronics Fundamentals, Web Development, Mech
 
 - Fitness and Gym
 - Web Development
-- Listening to Music
+- Music
 
 ## 🚀 Projects:
 
