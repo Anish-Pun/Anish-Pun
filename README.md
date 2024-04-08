@@ -1,11 +1,14 @@
-##👋 Hi there, I'm Anish! Welcome to my Github.
+#👋 Hi there, I'm Anish! Welcome to my Github.
+
 ##📚 Education:
 - Bachelor's in Electronics and Computer Science at PXL Hasselt.
-- Rekevant coursework (2023-2024): Elektronics Fundamentals, Web Development, Mechatronics Principles, C programming and Network Porgramming. 
+- Rekevant coursework (2023-2024): Elektronics Fundamentals, Web Development, Mechatronics Principles, C programming and Network Porgramming.
+
 ##💼 Interests:
 - Fitness and Gym
 - Web Development
 - Listening to Music
+
 ##🚀 Projects:
 1. ***MineSweeper Game***
    - Description: Implementation of the classic Minesweeper game in C language.
