@@ -1,4 +1,7 @@
 <p align="center">
-  IDK
-  <!--<img src="https://komarev.com/ghpvc/?username=Anish-Pun&style=for-the-badge" alt="Profile Views"/>-->
+  idk
+  <a href="https://discord.com/users/352336554984996876">
+    <img src="https://lanyard.cnrad.dev/api/352336554984996876" alt="Discord Presence" />
+  </a>
 </p>
+
